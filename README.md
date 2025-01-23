@@ -1,6 +1,6 @@
 <hr>
 <div align="center">
-  <h2>Frontend Web Enthusiast <br> Motivational Words</h2>
+  <h2>Web Development Enthusiast <br> Motivational Words</h2>
 </div>
 
 <hr>
