@@ -2,3 +2,9 @@ menu/**/*.png
 *.jpeg
 *.png
 *.jpg
+
+.htaccess
+.user.ini
+404.html
+502.html
+index.html
