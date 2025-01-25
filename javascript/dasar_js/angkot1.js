@@ -1,2 +1,0 @@
-let penumpang = [];
-penumpang.leg
